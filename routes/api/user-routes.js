@@ -1,8 +1,11 @@
 const router = require('express').Router();
+const { del } = require('express/lib/application');
 const {
     getAllUser,
     getUserById,
-    createUser
+    createUser,
+    updateUser,
+    deleteUser
 } = require('../../controllers/user-controller');
 
 // /api/user
@@ -14,6 +17,8 @@ router
 // /api/user/:id
 router
     .route('/:id')
-    .get(getUserById);
+    .get(getUserById)
+    .put(updateUser)
+    .delete(deleteUser);
 
 module.exports = router
