@@ -31,27 +31,27 @@ Video: https://watch.screencastify.com/v/Q2FpNyVtns1YxEDT90Pv
 
 ### Get all Users
 
-![users](images/getAllUsers.JPG)
+![users](/images/getAllUsers.JPG)
 
 ### Create New Users
 
-![newUsers](images/createUsers.JPG)
+![newUsers](/images/createUsers.JPG)
 
 ### Get all Thoughts
 
-![thoughts](images/getallThoughts.JPG)
+![thoughts](/images/getallThoughts.JPG)
 
 ### Create Thoughts
 
-![newThoughts](images/createThoughts.JPG)
+![newThoughts](/images/createThoughts.JPG)
 
 ### Add Friends
 
-![addFriends](images/addFriends.JPG)
+![addFriends](/images/addFriends.JPG)
 
 ### Add Reactions to Thoughts
 
-![addReactions](images/addReactions.JPG)
+![addReactions](/images/addReactions.JPG)
 
 ---
 ## License
